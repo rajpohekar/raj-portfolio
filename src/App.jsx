@@ -354,7 +354,7 @@ export default function Portfolio() {
                 // style={{ width: "clamp(180px, 30vw, 300px)", height: "clamp(180px, 30vw, 300px)", borderRadius: "0", objectFit: "cover", border: "2px solid #00F5FF", boxShadow: "0 0 40px #00F5FF44", animation: "float 6s ease-in-out infinite" }}
                 style={{
                   width: "250px",
-                  height: "250px",
+                  height: "300px",
                   borderRadius: "0",
                   objectFit: "cover",
                   border: "2px solid #00F5FF",
